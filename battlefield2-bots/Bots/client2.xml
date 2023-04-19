@@ -1,0 +1,10 @@
+<bf2bot>
+<server address="66.23.200.107" port="16577" mod="mods/bf2">
+<client nickname="PLAYER01" password="pass" cdkey="36PP-V704-LMVM-2738-6VTL"/>
+<client nickname="PLAYER02" password="pass" cdkey="35C4-T6JQ-XMWJ-DZ6O-HJTL"/>
+<client nickname="PLAYER03" password="pass" cdkey="2WGQ-7JXD-CIZA-4HPM-TVTL"/>
+<client nickname="PLAYER04" password="pass" cdkey="2PK8-MJVS-VNAT-7MZ3-WVTL"/>
+<client nickname="PLAYER05" password="pass" cdkey="2XKL-7MVQ-YSH8-8XGS-1VT3"/>
+<client nickname="PLAYER06" password="pass" cdkey="2VGQ-7JVD-CIZA-4LPM-TVT3"/>
+</server>
+</bf2bot>

@@ -1,0 +1,12 @@
+---------------------------------------------
+create PLAYER01 pass 666@666.com
+setpid PLAYER01 5000001
+fetch PLAYER01
+
+create PLAYER02 pass 6662@6662.com
+setpid PLAYER02 5000002
+fetch PLAYER02
+
+create PLAYER03 pass 6663@6663.com
+setpid PLAYER03 5000003
+fetch PLAYER03

@@ -1,0 +1,14 @@
+<bf2bot>
+<server address="66.23.200.107" port="16577" mod="mods/bf2">
+<client nickname="battlefield2hdpro.com" password="pass" cdkey="36PP-V704-LMVM-2738-6VTL"/>
+<client nickname="G@te.of.F@ir.G@mes" password="pass" cdkey="35B4-T6VQ-X15J-2Z6O-HVTL"/>
+<client nickname="+GoFG+" password="pass" cdkey="2TJT-PHV7-115A-2T3W-2VTL"/>
+<client nickname="BFHD" password="pass" cdkey="2THD-YAVK-SKRS-63EL-AVTL"/>
+<client nickname="FairGames-Hosting.ovh" password="pass" cdkey="2PK8-MJVS-VNAT-7MZ3-WVTL"/>
+<client nickname="BattleBots" password="pass" cdkey="2UNG-XBV6-XFKS-4A33-HVTL"/>
+<client nickname="Try.to.Catch.Me" password="pass" cdkey="2XKL-7MVQ-YSH8-8XGS-1VT3"/>
+<client nickname="RoboBots" password="pass" cdkey="2VGQ-7JVD-CIZA-4LPM-TVT3"/>
+<client nickname="=T1P=.+GoFG+..BF2Leader" password="pass" cdkey="2UNW-MNVN-5660-84TC-4VT3"/>
+<client nickname="+GoFG+_T.B.D" password="pass" cdkey="39PO-Q5GP-HIFI-R12B-PVT3"/>
+</server>
+</bf2bot>

@@ -1,0 +1,14 @@
+<bf2bot>
+<server address="34.95.212.0" port="16569" mod="mods/bf2">
+<client nickname="=RKT=_01" password="pass" cdkey="36PP-V704-LMVM-2738-6VTL"/>
+<client nickname="=RKT=_02" password="pass" cdkey="35B4-T6VQ-X15J-2Z6O-HVTL"/>
+<client nickname="=RKT=_03" password="pass" cdkey="2TJT-PHV7-115A-2T3W-2VTL"/>
+<client nickname="=RKT=_04" password="pass" cdkey="2THD-YAVK-SKRS-63EL-AVTL"/>
+<client nickname="=RKT=_05" password="pass" cdkey="2PK8-MJVS-VNAT-7MZ3-WVTL"/>
+<client nickname="=RKT=_06" password="pass" cdkey="2UNG-XBV6-XFKS-4A33-HVTL"/>
+<client nickname="=RKT=_07" password="pass" cdkey="2XKL-7MVQ-YSH8-8XGS-1VT3"/>
+<client nickname="=RKT=_08" password="pass" cdkey="2VGQ-7JVD-CIZA-4LPM-TVT3"/>
+<client nickname="=RKT=_09" password="pass" cdkey="2UNW-MNVN-5660-84TC-4VT3"/>
+<client nickname="=RKT=_10" password="pass" cdkey="39PO-Q5GP-HIFI-R12B-PVT3"/>
+</server>
+</bf2bot>
